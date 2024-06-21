@@ -174,7 +174,7 @@ void loop(){
   Serial.print("Determinação Solar em rad: ");
   Serial.println(detHoraRad);
   Serial.print("Determinação da hora Solar: ");
-  Serial.println(detHora);*/
+  Serial.println(detHora);
   Serial.print("Altitude Solar: ");
   Serial.println(altitude);
   Serial.print("Azimute: ");
